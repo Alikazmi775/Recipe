@@ -28,19 +28,23 @@ YummyRecipes/
 │
 ├── Models/                     # Model definitions (Recipes, APIResponse, etc.)
 │   └── Recipes.swift
+|
 │
 ├── ViewModels/                 # ViewModel handling business logic
 │   └── RecipeViewModel.swift
 │
+|
 ├── Services/                   # API service definitions and protocols
 │   └── APIService.swift
 │   └── APIServiceProtocol.swift
 │
+|
 ├── Views/                      # SwiftUI Views for UI elements
 │   ├── RecipeListView.swift
 │   ├── RecipeRowView.swift
 │   └── RecipeDetailView.swift
 │
+|
 └── Resources/                  # Assets and resources
     └── Assets.xcassets
 
